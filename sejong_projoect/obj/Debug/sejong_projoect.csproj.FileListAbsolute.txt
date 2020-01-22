@@ -1,0 +1,117 @@
+C:\Users\kshnb\Source\Repos\sejong_projoect\sejong_projoect\bin\Debug\sejong_projoect.exe.config
+C:\Users\kshnb\Source\Repos\sejong_projoect\sejong_projoect\bin\Debug\sejong_projoect.exe
+C:\Users\kshnb\Source\Repos\sejong_projoect\sejong_projoect\bin\Debug\sejong_projoect.pdb
+C:\Users\kshnb\Source\Repos\sejong_projoect\sejong_projoect\obj\Debug\sejong_projoect.csprojAssemblyReference.cache
+C:\Users\kshnb\Source\Repos\sejong_projoect\sejong_projoect\obj\Debug\sejong_projoect.Properties.Resources.resources
+C:\Users\kshnb\Source\Repos\sejong_projoect\sejong_projoect\obj\Debug\sejong_projoect.csproj.GenerateResource.cache
+C:\Users\kshnb\Source\Repos\sejong_projoect\sejong_projoect\obj\Debug\sejong_projoect.csproj.CoreCompileInputs.cache
+C:\Users\kshnb\Source\Repos\sejong_projoect\sejong_projoect\obj\Debug\sejong_projoect.exe
+C:\Users\kshnb\Source\Repos\sejong_projoect\sejong_projoect\obj\Debug\sejong_projoect.pdb
+C:\Users\kshnb\Source\Repos\sejong_projoect\sejong_projoect\obj\Debug\sejong_projoect.Login.resources
+C:\Users\kshnb\Source\Repos\sejong_projoect\sejong_projoect\obj\Debug\sejong_projoect.WholeBoard.resources
+C:\Users\kshnb\Source\Repos\sejong_projoect\sejong_projoect\obj\Debug\sejong_projoect.PostingView.resources
+C:\Users\kshnb\Source\Repos\sejong_projoect\sejong_projoect\bin\Debug\MySql.Data.dll
+C:\Users\kshnb\Source\Repos\sejong_projoect\sejong_projoect\bin\Debug\Google.Protobuf.dll
+C:\Users\kshnb\Source\Repos\sejong_projoect\sejong_projoect\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kshnb\Source\Repos\sejong_projoect\sejong_projoect\bin\Debug\MySql.Data.xml
+C:\Users\kshnb\Source\Repos\sejong_projoect\sejong_projoect\obj\Debug\sejong_projoect.csproj.CopyComplete
+C:\Users\kshn0\Desktop\DB_project\sejong_projoect\bin\Debug\sejong_projoect.exe.config
+C:\Users\kshn0\Desktop\DB_project\sejong_projoect\bin\Debug\sejong_projoect.exe
+C:\Users\kshn0\Desktop\DB_project\sejong_projoect\bin\Debug\sejong_projoect.pdb
+C:\Users\kshn0\Desktop\DB_project\sejong_projoect\bin\Debug\Google.Protobuf.dll
+C:\Users\kshn0\Desktop\DB_project\sejong_projoect\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kshn0\Desktop\DB_project\sejong_projoect\bin\Debug\MySql.Data.xml
+C:\Users\kshn0\Desktop\DB_project\sejong_projoect\obj\Debug\sejong_projoect.csprojAssemblyReference.cache
+C:\Users\kshn0\Desktop\DB_project\sejong_projoect\obj\Debug\sejong_projoect.Login.resources
+C:\Users\kshn0\Desktop\DB_project\sejong_projoect\obj\Debug\sejong_projoect.Properties.Resources.resources
+C:\Users\kshn0\Desktop\DB_project\sejong_projoect\obj\Debug\sejong_projoect.WholeBoard.resources
+C:\Users\kshn0\Desktop\DB_project\sejong_projoect\obj\Debug\sejong_projoect.csproj.GenerateResource.cache
+C:\Users\kshn0\Desktop\DB_project\sejong_projoect\obj\Debug\sejong_projoect.csproj.CoreCompileInputs.cache
+C:\Users\kshn0\Desktop\DB_project\sejong_projoect\obj\Debug\sejong_projoect.csproj.CopyComplete
+C:\Users\kshn0\Desktop\DB_project\sejong_projoect\obj\Debug\sejong_projoect.exe
+C:\Users\kshn0\Desktop\DB_project\sejong_projoect\obj\Debug\sejong_projoect.pdb
+C:\Users\kshn0\Desktop\DB_project\sejong_projoect\obj\Debug\sejong_projoect.SignUpPage.resources
+C:\Users\kshn0\Desktop\DB_project\sejong_projoect\obj\Debug\sejong_projoect.FirstVisitView.resources
+C:\Users\kshn0\Desktop\DB_project\sejong_projoect\obj\Debug\sejong_projoect.ToWishOrWatched.resources
+C:\Users\kshnb\Desktop\DB_project (1)\sejong_projoect\bin\Debug\sejong_projoect.exe.config
+C:\Users\kshnb\Desktop\DB_project (1)\sejong_projoect\bin\Debug\sejong_projoect.exe
+C:\Users\kshnb\Desktop\DB_project (1)\sejong_projoect\bin\Debug\sejong_projoect.pdb
+C:\Users\kshnb\Desktop\DB_project (1)\sejong_projoect\bin\Debug\MySql.Data.dll
+C:\Users\kshnb\Desktop\DB_project (1)\sejong_projoect\bin\Debug\Google.Protobuf.dll
+C:\Users\kshnb\Desktop\DB_project (1)\sejong_projoect\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kshnb\Desktop\DB_project (1)\sejong_projoect\bin\Debug\MySql.Data.xml
+C:\Users\kshnb\Desktop\DB_project (1)\sejong_projoect\obj\Debug\sejong_projoect.csprojAssemblyReference.cache
+C:\Users\kshnb\Desktop\DB_project (1)\sejong_projoect\obj\Debug\sejong_projoect.FirstVisitView.resources
+C:\Users\kshnb\Desktop\DB_project (1)\sejong_projoect\obj\Debug\sejong_projoect.Login.resources
+C:\Users\kshnb\Desktop\DB_project (1)\sejong_projoect\obj\Debug\sejong_projoect.Properties.Resources.resources
+C:\Users\kshnb\Desktop\DB_project (1)\sejong_projoect\obj\Debug\sejong_projoect.SignUpPage.resources
+C:\Users\kshnb\Desktop\DB_project (1)\sejong_projoect\obj\Debug\sejong_projoect.ToWishOrWatched.resources
+C:\Users\kshnb\Desktop\DB_project (1)\sejong_projoect\obj\Debug\sejong_projoect.WholeBoard.resources
+C:\Users\kshnb\Desktop\DB_project (1)\sejong_projoect\obj\Debug\sejong_projoect.csproj.GenerateResource.cache
+C:\Users\kshnb\Desktop\DB_project (1)\sejong_projoect\obj\Debug\sejong_projoect.csproj.CoreCompileInputs.cache
+C:\Users\kshnb\Desktop\DB_project (1)\sejong_projoect\obj\Debug\sejong_projoect.csproj.CopyComplete
+C:\Users\kshnb\Desktop\DB_project (1)\sejong_projoect\obj\Debug\sejong_projoect.exe
+C:\Users\kshnb\Desktop\DB_project (1)\sejong_projoect\obj\Debug\sejong_projoect.pdb
+C:\Users\qkdlq\Desktop\[DB-금요일] 과제 15010955 임주영 , 15011066 서유식\MOVIE_SCANNER_PROJECT\sejong_projoect\bin\Debug\sejong_projoect.exe.config
+C:\Users\qkdlq\Desktop\[DB-금요일] 과제 15010955 임주영 , 15011066 서유식\MOVIE_SCANNER_PROJECT\sejong_projoect\bin\Debug\sejong_projoect.exe
+C:\Users\qkdlq\Desktop\[DB-금요일] 과제 15010955 임주영 , 15011066 서유식\MOVIE_SCANNER_PROJECT\sejong_projoect\bin\Debug\sejong_projoect.pdb
+C:\Users\qkdlq\Desktop\[DB-금요일] 과제 15010955 임주영 , 15011066 서유식\MOVIE_SCANNER_PROJECT\sejong_projoect\bin\Debug\Google.Protobuf.dll
+C:\Users\qkdlq\Desktop\[DB-금요일] 과제 15010955 임주영 , 15011066 서유식\MOVIE_SCANNER_PROJECT\sejong_projoect\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\qkdlq\Desktop\[DB-금요일] 과제 15010955 임주영 , 15011066 서유식\MOVIE_SCANNER_PROJECT\sejong_projoect\bin\Debug\MySql.Data.xml
+C:\Users\qkdlq\Desktop\[DB-금요일] 과제 15010955 임주영 , 15011066 서유식\MOVIE_SCANNER_PROJECT\sejong_projoect\obj\Debug\sejong_projoect.csprojAssemblyReference.cache
+C:\Users\qkdlq\Desktop\[DB-금요일] 과제 15010955 임주영 , 15011066 서유식\MOVIE_SCANNER_PROJECT\sejong_projoect\obj\Debug\sejong_projoect.FirstVisitView.resources
+C:\Users\qkdlq\Desktop\[DB-금요일] 과제 15010955 임주영 , 15011066 서유식\MOVIE_SCANNER_PROJECT\sejong_projoect\obj\Debug\sejong_projoect.Login.resources
+C:\Users\qkdlq\Desktop\[DB-금요일] 과제 15010955 임주영 , 15011066 서유식\MOVIE_SCANNER_PROJECT\sejong_projoect\obj\Debug\sejong_projoect.Properties.Resources.resources
+C:\Users\qkdlq\Desktop\[DB-금요일] 과제 15010955 임주영 , 15011066 서유식\MOVIE_SCANNER_PROJECT\sejong_projoect\obj\Debug\sejong_projoect.SignUpPage.resources
+C:\Users\qkdlq\Desktop\[DB-금요일] 과제 15010955 임주영 , 15011066 서유식\MOVIE_SCANNER_PROJECT\sejong_projoect\obj\Debug\sejong_projoect.ToWishOrWatched.resources
+C:\Users\qkdlq\Desktop\[DB-금요일] 과제 15010955 임주영 , 15011066 서유식\MOVIE_SCANNER_PROJECT\sejong_projoect\obj\Debug\sejong_projoect.WholeBoard.resources
+C:\Users\qkdlq\Desktop\[DB-금요일] 과제 15010955 임주영 , 15011066 서유식\MOVIE_SCANNER_PROJECT\sejong_projoect\obj\Debug\sejong_projoect.csproj.GenerateResource.cache
+C:\Users\qkdlq\Desktop\[DB-금요일] 과제 15010955 임주영 , 15011066 서유식\MOVIE_SCANNER_PROJECT\sejong_projoect\obj\Debug\sejong_projoect.csproj.CoreCompileInputs.cache
+C:\Users\qkdlq\Desktop\[DB-금요일] 과제 15010955 임주영 , 15011066 서유식\MOVIE_SCANNER_PROJECT\sejong_projoect\obj\Debug\sejong_projoect.csproj.CopyComplete
+C:\Users\qkdlq\Desktop\[DB-금요일] 과제 15010955 임주영 , 15011066 서유식\MOVIE_SCANNER_PROJECT\sejong_projoect\obj\Debug\sejong_projoect.exe
+C:\Users\qkdlq\Desktop\[DB-금요일] 과제 15010955 임주영 , 15011066 서유식\MOVIE_SCANNER_PROJECT\sejong_projoect\obj\Debug\sejong_projoect.pdb
+C:\Users\kshnb\Desktop\DB 최종 프로젝트\MOVIE_SCANNER_PROJECT\sejong_projoect\bin\Debug\sejong_projoect.exe.config
+C:\Users\kshnb\Desktop\DB 최종 프로젝트\MOVIE_SCANNER_PROJECT\sejong_projoect\bin\Debug\sejong_projoect.exe
+C:\Users\kshnb\Desktop\DB 최종 프로젝트\MOVIE_SCANNER_PROJECT\sejong_projoect\bin\Debug\sejong_projoect.pdb
+C:\Users\kshnb\Desktop\DB 최종 프로젝트\MOVIE_SCANNER_PROJECT\sejong_projoect\bin\Debug\MySql.Data.dll
+C:\Users\kshnb\Desktop\DB 최종 프로젝트\MOVIE_SCANNER_PROJECT\sejong_projoect\bin\Debug\Google.Protobuf.dll
+C:\Users\kshnb\Desktop\DB 최종 프로젝트\MOVIE_SCANNER_PROJECT\sejong_projoect\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kshnb\Desktop\DB 최종 프로젝트\MOVIE_SCANNER_PROJECT\sejong_projoect\bin\Debug\MySql.Data.xml
+C:\Users\kshnb\Desktop\DB 최종 프로젝트\MOVIE_SCANNER_PROJECT\sejong_projoect\obj\Debug\sejong_projoect.csprojAssemblyReference.cache
+C:\Users\kshnb\Desktop\DB 최종 프로젝트\MOVIE_SCANNER_PROJECT\sejong_projoect\obj\Debug\sejong_projoect.FirstVisitView.resources
+C:\Users\kshnb\Desktop\DB 최종 프로젝트\MOVIE_SCANNER_PROJECT\sejong_projoect\obj\Debug\sejong_projoect.Login.resources
+C:\Users\kshnb\Desktop\DB 최종 프로젝트\MOVIE_SCANNER_PROJECT\sejong_projoect\obj\Debug\sejong_projoect.Properties.Resources.resources
+C:\Users\kshnb\Desktop\DB 최종 프로젝트\MOVIE_SCANNER_PROJECT\sejong_projoect\obj\Debug\sejong_projoect.SignUpPage.resources
+C:\Users\kshnb\Desktop\DB 최종 프로젝트\MOVIE_SCANNER_PROJECT\sejong_projoect\obj\Debug\sejong_projoect.ToWishOrWatched.resources
+C:\Users\kshnb\Desktop\DB 최종 프로젝트\MOVIE_SCANNER_PROJECT\sejong_projoect\obj\Debug\sejong_projoect.WholeBoard.resources
+C:\Users\kshnb\Desktop\DB 최종 프로젝트\MOVIE_SCANNER_PROJECT\sejong_projoect\obj\Debug\sejong_projoect.csproj.GenerateResource.cache
+C:\Users\kshnb\Desktop\DB 최종 프로젝트\MOVIE_SCANNER_PROJECT\sejong_projoect\obj\Debug\sejong_projoect.csproj.CoreCompileInputs.cache
+C:\Users\kshnb\Desktop\DB 최종 프로젝트\MOVIE_SCANNER_PROJECT\sejong_projoect\obj\Debug\sejong_projoect.csproj.CopyComplete
+C:\Users\kshnb\Desktop\DB 최종 프로젝트\MOVIE_SCANNER_PROJECT\sejong_projoect\obj\Debug\sejong_projoect.exe
+C:\Users\kshnb\Desktop\DB 최종 프로젝트\MOVIE_SCANNER_PROJECT\sejong_projoect\obj\Debug\sejong_projoect.pdb
+C:\Users\kshnb\Desktop\DB 최종 프로젝트\MOVIE_SCANNER_PROJECT\sejong_projoect\bin\Release\sejong_projoect.exe.config
+C:\Users\kshnb\Desktop\DB 최종 프로젝트\MOVIE_SCANNER_PROJECT\sejong_projoect\bin\Release\sejong_projoect.exe
+C:\Users\kshnb\Desktop\DB 최종 프로젝트\MOVIE_SCANNER_PROJECT\sejong_projoect\bin\Release\sejong_projoect.pdb
+C:\Users\kshnb\Desktop\DB 최종 프로젝트\MOVIE_SCANNER_PROJECT\sejong_projoect\bin\Release\MySql.Data.dll
+C:\Users\kshnb\Desktop\DB 최종 프로젝트\MOVIE_SCANNER_PROJECT\sejong_projoect\bin\Release\Google.Protobuf.dll
+C:\Users\kshnb\Desktop\DB 최종 프로젝트\MOVIE_SCANNER_PROJECT\sejong_projoect\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\kshnb\Desktop\DB 최종 프로젝트\MOVIE_SCANNER_PROJECT\sejong_projoect\bin\Release\MySql.Data.xml
+C:\Users\kshnb\Documents\GitHub\Motopia\sejong_projoect\bin\Release\sejong_projoect.exe.config
+C:\Users\kshnb\Documents\GitHub\Motopia\sejong_projoect\bin\Release\sejong_projoect.exe
+C:\Users\kshnb\Documents\GitHub\Motopia\sejong_projoect\bin\Release\sejong_projoect.pdb
+C:\Users\kshnb\Documents\GitHub\Motopia\sejong_projoect\bin\Release\MySql.Data.dll
+C:\Users\kshnb\Documents\GitHub\Motopia\sejong_projoect\bin\Release\Google.Protobuf.dll
+C:\Users\kshnb\Documents\GitHub\Motopia\sejong_projoect\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\kshnb\Documents\GitHub\Motopia\sejong_projoect\bin\Release\MySql.Data.xml
+C:\Users\kshnb\Documents\GitHub\Motopia\sejong_projoect\obj\Debug\sejong_projoect.csprojAssemblyReference.cache
+C:\Users\kshnb\Documents\GitHub\Motopia\sejong_projoect\obj\Debug\sejong_projoect.FirstVisitView.resources
+C:\Users\kshnb\Documents\GitHub\Motopia\sejong_projoect\obj\Debug\sejong_projoect.Login.resources
+C:\Users\kshnb\Documents\GitHub\Motopia\sejong_projoect\obj\Debug\sejong_projoect.Properties.Resources.resources
+C:\Users\kshnb\Documents\GitHub\Motopia\sejong_projoect\obj\Debug\sejong_projoect.SignUpPage.resources
+C:\Users\kshnb\Documents\GitHub\Motopia\sejong_projoect\obj\Debug\sejong_projoect.ToWishOrWatched.resources
+C:\Users\kshnb\Documents\GitHub\Motopia\sejong_projoect\obj\Debug\sejong_projoect.WholeBoard.resources
+C:\Users\kshnb\Documents\GitHub\Motopia\sejong_projoect\obj\Debug\sejong_projoect.csproj.GenerateResource.cache
+C:\Users\kshnb\Documents\GitHub\Motopia\sejong_projoect\obj\Debug\sejong_projoect.csproj.CoreCompileInputs.cache
+C:\Users\kshnb\Documents\GitHub\Motopia\sejong_projoect\obj\Debug\sejong_projoect.csproj.CopyComplete
+C:\Users\kshnb\Documents\GitHub\Motopia\sejong_projoect\obj\Debug\sejong_projoect.exe
+C:\Users\kshnb\Documents\GitHub\Motopia\sejong_projoect\obj\Debug\sejong_projoect.pdb
